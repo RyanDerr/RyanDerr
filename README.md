@@ -11,7 +11,7 @@
  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
 </p>
 
-### Data Tools & Technolgies 
+#### Data Tools & Technolgies 
 <p>
  <img alt="Postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
