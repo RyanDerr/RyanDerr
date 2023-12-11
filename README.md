@@ -1,4 +1,20 @@
 ### Greetings from Ryan Derr 👋
+#### Certifications
+<p>
+ <a href="https://learn.microsoft.com/api/credentials/share/en-us/RyanDerr/7B0B56DC2DBEB5E1?sharingId=B394A8EEF65BDBC4">
+  <img alt="Azure Developer Associate" src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height="100"> 
+ </a>
+ <a href="https://www.credly.com/badges/8245ebd6-1b83-46d1-a35f-91b7e17227b2/public_url">
+  <img alt="AWS Developer Associate" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" height="100"> 
+ </a>
+ <a href="https://www.credly.com/badges/8245ebd6-1b83-46d1-a35f-91b7e17227b2/public_url">
+  <img alt="CKAD" src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" height="100"> 
+ </a>
+ <a href="https://www.credly.com/badges/32590143-f8e9-4d0f-a91f-6d3950828594/public_url">
+  <img alt="Terraform Associate" src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" height="100"> 
+ </a>
+</p> 
+
 ## 🛠️ My Stack:
 #### Languages/Frameworks
 <p>
